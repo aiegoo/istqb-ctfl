@@ -38,10 +38,6 @@ Anyway, the amount of time was not a problem, but I needed to make sure that I'm
 The second important issue is what source should I study? I started with the book [Foundations of Software Testing ISTQB Certification, 4th edition](https://www.amazon.com/Foundations-Software-Testing-ISTQB-Certification-dp-1473764793/dp/1473764793/ref=dp_ob_title_bk). It contains everything explained in the official source and also, complementary data which helps alot specially on chapter #4. But at the end of the book, I didn't find it useful for my method of learning and came back to the ISTQB official source (CTFL Syllabus 2018 v3.1.1).
 
 
-### Result
-I passed the exam with 36/40 correct answer means my score was 90% which is a very good result. Note that it is not mentioned on the certificate and but after the exam, you can see the results and your exam provider, will also inform you via email and you will not find anymore detail about which questions answered correctly or wrong, only the final score.
-
-
 ### Exam Tips
 Before reading this part, I highly recommend you again read the experience of [Olha Kutniv](https://medium.com/agileinsider/how-to-prepare-for-and-pass-istqb-certification-my-experience-94b127ccfebc) and then mine.
 
@@ -49,7 +45,7 @@ According to my experience, the sample exams you find freely online are very dif
 
 But for preparing myself for these exams, I had to do other mock or dump tests. So consider those as necessary preparations for the following exam sets.
 
-> I highly recommend, use these 3 exam samples wisely and don't take them all at the begining. Use them as way to assess your readiness for the final exam
+> I highly recommend, use these 3 exam samples wisely and don't take them all at the begining. Use them as way to assess your readiness for tfinal exam
 
 - Exam set #1 - First month:
     - After studying the official document and taking different mock exams (chapter-based or others), I took this exam. The result was shocking, becuase the level of the details and the type of questions are completely different than the free tests online (which are mostly outdated)
